@@ -7,3 +7,4 @@ echo "dickhead";
 echo "pre, nagdagdag ako.";
 echo "pre, nagdagdag din ako.";
 echo "footer: mobile view done";
+echo "sinira ko na yung header";
