@@ -15,3 +15,4 @@ echo "wgaga";
 echo "test lang to";
 echo "latest ver of geol";
 echo "nig";
+echo "agawgwagwagagwa";
