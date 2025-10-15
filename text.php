@@ -12,3 +12,4 @@ echo "dilawsaitlog";
 echo "adfasdf";
 echo "github > phub";
 echo "wgaga";
+echo "test lang to";
