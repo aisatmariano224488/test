@@ -17,3 +17,4 @@ echo "latest ver of geol";
 echo "nig";
 echo "jkdkdk";
 echo "agawgwagwagagwa";
+echo "awgwagwagawgagw";
